@@ -18,7 +18,7 @@ class Solution {
         int subsetXORSum(vector<int>& nums) {
             // recur(nums, 0, 0);
 
-            // the bitwise solution
+            // the bitwise solution is wild
             int result = 0;
             int n = nums.size();
 
