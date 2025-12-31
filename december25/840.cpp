@@ -17,7 +17,6 @@ public:
                 if(isMS(grid, i, j)) ++count;
             }
         }
-
         return count;
     }
 private:
